@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="354.33069"
+   height="354.33069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="square2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="47.104263"
+     inkscape:cy="6.9264735"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-698.03149)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="rect2826"
+       d="m 7.1428552,993.07646 48.5714308,0 0,51.42864 -48.5714308,0 0,-51.42864 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g2830">
+      <path
+         id="path2832"
+         gcodetools="Preview"
+         d="M 34.285713,31.473545 L 82.857143,31.473545"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+      <path
+         id="path2834"
+         gcodetools="Preview"
+         d="M 82.857143,31.473545 L 82.857143,82.902115"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+      <path
+         id="path2836"
+         gcodetools="Preview"
+         d="M 82.857143,82.902115 L 34.285713,82.902115"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+      <path
+         id="path2838"
+         gcodetools="Preview"
+         d="M 34.285713,82.902115 L 34.285713,31.473545"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+      <path
+         id="path2840"
+         gcodetools="Preview"
+         d="M 34.285713,31.473545 L 34.285713,31.473545"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    </g>
+  </g>
+  <g
+     id="g2842"
+     gcodetools="Gcodetools orientation group">
+    <g
+       id="g2844"
+       gcodetools="Gcodetools orientation point (2 points)">
+      <path
+         id="path2846"
+         gcodetools="Gcodetools orientation point arrow"
+         d="m 0.0,354.33069 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+         style="stroke:none;fill:#000000;" />
+      <text
+         id="text2848"
+         gcodetools="Gcodetools orientation point text"
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;"
+         x="10.0"
+         y="344.33069">(0.0; 0.0; 0.0)</text>
+    </g>
+    <g
+       id="g2850"
+       gcodetools="Gcodetools orientation point (2 points)">
+      <path
+         id="path2852"
+         gcodetools="Gcodetools orientation point arrow"
+         d="m 354.3307066,354.33069 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+         style="stroke:none;fill:#000000;" />
+      <text
+         id="text2854"
+         gcodetools="Gcodetools orientation point text"
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;"
+         x="364.3307066"
+         y="344.33069">(100.0; 0.0; 0.0)</text>
+    </g>
+  </g>
+  <defs
+     id="defs2856">
+    <marker
+       orient="auto"
+       id="DrawCurveMarker"
+       style="overflow:visible"
+       refX="-8"
+       refY="-2.41063">
+      <path
+         id="path2859"
+         d="m -6.55552,-2.41063 0,0 L -13.11104,0 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044; fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;" />
+    </marker>
+  </defs>
+  <defs
+     id="defs2861">
+    <marker
+       orient="auto"
+       id="DrawCurveMarker_r"
+       style="overflow:visible"
+       refX="8"
+       refY="-2.41063">
+      <path
+         id="path2864"
+         d="m 6.55552,-2.41063 0,0 L 13.11104,0 c -1.0473,-1.42323 -1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044; fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;" />
+    </marker>
+  </defs>
+  <g
+     id="g2886">
+    <path
+       id="path2888"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path2890"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path2892"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path2894"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path2896"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+  <g
+     id="g20950">
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       gcodetools="Preview"
+       id="path20952" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       gcodetools="Preview"
+       id="path20954" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       gcodetools="Preview"
+       id="path20956" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path20958" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path20960" />
+  </g>
+  <g
+     id="g21036">
+    <path
+       id="path21038"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21040"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21042"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21044"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21046"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+  <g
+     id="g21134">
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       gcodetools="Preview"
+       id="path21136" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       gcodetools="Preview"
+       id="path21138" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       gcodetools="Preview"
+       id="path21140" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21142" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21144" />
+  </g>
+  <g
+     id="g21244">
+    <path
+       id="path21246"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21248"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21250"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21252"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21254"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+  <g
+     id="g21366">
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       gcodetools="Preview"
+       id="path21368" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       gcodetools="Preview"
+       id="path21370" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       gcodetools="Preview"
+       id="path21372" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21374" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21376" />
+  </g>
+  <g
+     id="g21500">
+    <path
+       id="path21502"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21504"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21506"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21508"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21510"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+  <g
+     id="g21646">
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       gcodetools="Preview"
+       id="path21648" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       gcodetools="Preview"
+       id="path21650" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       gcodetools="Preview"
+       id="path21652" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21654" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21656" />
+  </g>
+  <g
+     id="g21804">
+    <path
+       id="path21806"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21808"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21810"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21812"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path21814"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+  <g
+     id="g21974">
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       gcodetools="Preview"
+       id="path21976" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       gcodetools="Preview"
+       id="path21978" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       gcodetools="Preview"
+       id="path21980" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21982" />
+    <path
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       gcodetools="Preview"
+       id="path21984" />
+  </g>
+  <g
+     id="g22156">
+    <path
+       id="path22158"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 55.714286,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path22160"
+       gcodetools="Preview"
+       d="M 55.714286,295.04497 L 55.714286,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path22162"
+       gcodetools="Preview"
+       d="M 55.714286,346.47361 L 7.1428552,346.47361"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path22164"
+       gcodetools="Preview"
+       d="M 7.1428552,346.47361 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+    <path
+       id="path22166"
+       gcodetools="Preview"
+       d="M 7.1428552,295.04497 L 7.1428552,295.04497"
+       style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none" />
+  </g>
+</svg>

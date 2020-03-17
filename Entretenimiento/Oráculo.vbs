@@ -1,0 +1,7 @@
+X=MsgBox("¿Quieres saber un secreto?",0+64,"Oráculo")
+X=MsgBox("Bueno",0+64,"Oráculo")
+X=MsgBox("Ella",0+16,"Oráculo")
+X=MsgBox("No",0+16,"Oráculo")
+X=MsgBox("Te",0+16,"Oráculo")
+X=MsgBox("Ama",0+16,"Oráculo")
+X=MsgBox("xdxdxdxdxdxdxdxd",0+64,"Oráculo")

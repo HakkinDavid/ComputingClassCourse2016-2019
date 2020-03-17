@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html{
+overflow-x: hidden;
+max-width: 100%;
+height: 100%;
+}
+p {
+  margin-bottom: 20px;
+}
+.wrapper {
+  width: 80%;
+  margin: auto;
+  overflow:hidden;
+}
+header {
+  background: rgba(0,0,0,0.9);
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
+ul, ol {
+				list-style:none;
+			}
+
+			.nav > li {
+				float:left;
+			}
+
+			.nav li a {
+        font-family: AR CENA;
+				color:white;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+      .nav li ul li a {
+        background-color:rgba(0,0,0,0.9);
+        color:white;
+        text-decoration:none;
+        padding:10px 12px;
+        display:block;
+      }
+			.nav li a:hover {
+				background-color:#1E90FF;
+			}
+
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+
+			.nav li:hover > ul {
+				display:block;
+			}
+
+			.nav li ul li {
+				position:relative;
+			}
+
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+      .nav li ul li .width2 {
+        right:-211px;
+        top:0px;
+      }
+      footer {
+        bottom: 0px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+      }
+      h1 font {
+         -webkit-text-stroke-width: 2px;
+         -webkit-text-stroke-color: black;
+         }
+      h4 font {
+            -webkit-text-stroke-width: 1.5px;
+            -webkit-text-stroke-color: black;
+      }
+      .contenido {
+        padding-top: 80px;
